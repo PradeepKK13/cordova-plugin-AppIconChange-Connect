@@ -41,7 +41,7 @@ public class changeappicon extends CordovaPlugin {
     public boolean execute(String action, CordovaArgs args, CallbackContext callbackContext) throws JSONException {
 
         if (action.equals(GET_ChanageToIcon)) {
-            ChanageToIcon(args.optString(0),args.optString(1),callbackContext);
+            ChanageToIcon(args.optString(0),this.cordova.getActivity().getPackageName(),callbackContext);
         } else {
             Log.i(TAG, "This action doesn't exist");
             return false;
