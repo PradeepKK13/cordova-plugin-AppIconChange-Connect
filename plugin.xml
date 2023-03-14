@@ -26,7 +26,7 @@
           <param name="onload" value="true" />
         </feature>
       </config-file>
-	<preference name="PACKAGE_DIRECTORY" default="src/com/classroom/phoenix"/>
+	<preference name="PACKAGE_DIRECTORY" default="src/com/connect/dev"/>
       <source-file src="src/android/changeappicon.java" target-dir="src/com/cordova/changeappicon"/>
 	  
 	  <source-file src="src/android/Icon1.java" target-dir="$PACKAGE_DIRECTORY"/>
@@ -440,7 +440,7 @@
 			</intent-filter>
 		</activity-alias>
 		  
-		  <activity-alias
+		<activity-alias
 			android:name="WSG"
 			android:enabled="false"
 			android:icon="@drawable/wsg"
@@ -452,6 +452,215 @@
 				<category android:name="android.intent.category.LAUNCHER"/>
 			</intent-filter>
 		</activity-alias>
+		
+		<activity-alias
+			android:name="CIA"
+			android:enabled="false"
+			android:icon="@drawable/cia"
+			android:roundIcon="@drawable/cia"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="GCS"
+			android:enabled="false"
+			android:icon="@drawable/gcs"
+			android:roundIcon="@drawable/gcs"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="GFM"
+			android:enabled="false"
+			android:icon="@drawable/gfm"
+			android:roundIcon="@drawable/gfm"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WAA"
+			android:enabled="false"
+			android:icon="@drawable/waa"
+			android:roundIcon="@drawable/waa"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WEK"
+			android:enabled="false"
+			android:icon="@drawable/wek"
+			android:roundIcon="@drawable/wek"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WGP"
+			android:enabled="false"
+			android:icon="@drawable/wgp"
+			android:roundIcon="@drawable/wgp"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WSD"
+			android:enabled="false"
+			android:icon="@drawable/wsd"
+			android:roundIcon="@drawable/wsd"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WSF"
+			android:enabled="false"
+			android:icon="@drawable/wsf"
+			android:roundIcon="@drawable/wsf"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WSO"
+			android:enabled="false"
+			android:icon="@drawable/wso"
+			android:roundIcon="@drawable/wso"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WSP"
+			android:enabled="false"
+			android:icon="@drawable/wsp"
+			android:roundIcon="@drawable/wsp"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WSQ"
+			android:enabled="false"
+			android:icon="@drawable/wsq"
+			android:roundIcon="@drawable/wsq"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WSR"
+			android:enabled="false"
+			android:icon="@drawable/wsr"
+			android:roundIcon="@drawable/wsr"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="WSS"
+			android:enabled="false"
+			android:icon="@drawable/wss"
+			android:roundIcon="@drawable/wss"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="OOB"
+			android:enabled="false"
+			android:icon="@drawable/oob"
+			android:roundIcon="@drawable/oob"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="OOL"
+			android:enabled="false"
+			android:icon="@drawable/ool"
+			android:roundIcon="@drawable/ool"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		  
+		<activity-alias
+			android:name="OOS"
+			android:enabled="false"
+			android:icon="@drawable/oos"
+			android:roundIcon="@drawable/oos"
+			android:label="@string/app_name"
+			android:targetActivity=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity-alias>
+		
         </config-file>
 
     </platform>
@@ -697,6 +906,118 @@
 					<string>wsg</string>
 				</array>
 			</dict>
+			<key>CIA</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>cia</string>
+				</array>
+			</dict>
+			<key>OOS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>oos</string>
+				</array>
+			</dict>
+			<key>GCS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>gcs</string>
+				</array>
+			</dict>
+			<key>GFM</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>gfm</string>
+				</array>
+			</dict>
+			<key>WAA</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>waa</string>
+				</array>
+			</dict>
+			<key>WEK</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wek</string>
+				</array>
+			</dict>
+			<key>WGP</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wgp</string>
+				</array>
+			</dict>
+			<key>WSD</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsd</string>
+				</array>
+			</dict>
+			<key>WSF</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsf</string>
+				</array>
+			</dict>
+			<key>WSO</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wso</string>
+				</array>
+			</dict>
+			<key>WSP</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsp</string>
+				</array>
+			</dict>
+			<key>WSQ</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsq</string>
+				</array>
+			</dict>
+			<key>WSR</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsr</string>
+				</array>
+			</dict>
+			<key>WSS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wss</string>
+				</array>
+			</dict>
+			<key>OOL</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>ool</string>
+				</array>
+			</dict>
+			<key>OOB</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>oob</string>
+				</array>
+			</dict>
 		</dict>
 	</dict>
     </config-file>
@@ -705,7 +1026,7 @@
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>appicon1</key>
+			<key>Icon1</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
@@ -929,6 +1250,118 @@
 				<key>CFBundleIconFiles</key>
 				<array>
 					<string>wsg</string>
+				</array>
+			</dict>
+			<key>CIA</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>cia</string>
+				</array>
+			</dict>
+			<key>OOS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>oos</string>
+				</array>
+			</dict>
+			<key>GCS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>gcs</string>
+				</array>
+			</dict>
+			<key>GFM</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>gfm</string>
+				</array>
+			</dict>
+			<key>WAA</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>waa</string>
+				</array>
+			</dict>
+			<key>WEK</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wek</string>
+				</array>
+			</dict>
+			<key>WGP</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wgp</string>
+				</array>
+			</dict>
+			<key>WSD</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsd</string>
+				</array>
+			</dict>
+			<key>WSF</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsf</string>
+				</array>
+			</dict>
+			<key>WSO</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wso</string>
+				</array>
+			</dict>
+			<key>WSP</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsp</string>
+				</array>
+			</dict>
+			<key>WSQ</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsq</string>
+				</array>
+			</dict>
+			<key>WSR</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wsr</string>
+				</array>
+			</dict>
+			<key>WSS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>wss</string>
+				</array>
+			</dict>
+			<key>OOL</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>ool</string>
+				</array>
+			</dict>
+			<key>OOB</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>oob</string>
 				</array>
 			</dict>
 		</dict>
