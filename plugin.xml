@@ -484,217 +484,217 @@
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>AAQ</string>
+					<string>aaq</string>
 				</array>
 			</dict>
 			<key>AKN</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>AKN</string>
+					<string>akn</string>
 				</array>
 			</dict>
 			<key>BISM</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>BISM</string>
+					<string>bism</string>
 				</array>
 			</dict>
 			<key>CHS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>CHS</string>
+					<string>chs</string>
 				</array>
 			</dict>
 			<key>DAA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>DAA</string>
+					<string>daa</string>
 				</array>
 			</dict>
 			<key>FPS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>FPS</string>
+					<string>fps</string>
 				</array>
 			</dict>
 			<key>GAA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GAA</string>
+					<string>gaa</string>
 				</array>
 			</dict>
 			<key>GFS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GFS</string>
+					<string>gfs</string>
 				</array>
 			</dict>
 			<key>GIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GIS</string>
+					<string>gis</string>
 				</array>
 			</dict>
 			<key>GMS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GMS</string>
+					<string>gms</string>
 				</array>
 			</dict>
 			<key>GWA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GWA</string>
+					<string>gwa</string>
 				</array>
 			</dict>
 			<key>JCD</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>JCD</string>
+					<string>jcd</string>
 				</array>
 			</dict>
 			<key>JPS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>JPS</string>
+					<string>jps</string>
 				</array>
 			</dict>
 			<key>KGS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>KGS</string>
+					<string>kgs</string>
 				</array>
 			</dict>
 			<key>MHS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>MHS</string>
+					<string>mhs</string>
 				</array>
 			</dict>
 			<key>MILS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>MILS</string>
+					<string>mils</string>
 				</array>
 			</dict>
 			<key>MLS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>MLS</string>
+					<string>mls</string>
 				</array>
 			</dict>
 			<key>MTS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>MTS</string>
+					<string>mts</string>
 				</array>
 			</dict>
 			<key>NGS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>NGS</string>
+					<string>ngs</string>
 				</array>
 			</dict>
 			<key>NMS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>NMS</string>
+					<string>nms</string>
 				</array>
 			</dict>
 			<key>OIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>OIS</string>
+					<string>ois</string>
 				</array>
 			</dict>
 			<key>OOD</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>OOD</string>
+					<string>ood</string>
 				</array>
 			</dict>
 			<key>OOW</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>OOW</string>
+					<string>oow</string>
 				</array>
 			</dict>
 			<key>RDS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>RDS</string>
+					<string>rds</string>
 				</array>
 			</dict>
 			<key>TBS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>TBS</string>
+					<string>tbs</string>
 				</array>
 			</dict>
 			<key>TWS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>TWS</string>
+					<string>tws</string>
 				</array>
 			</dict>
 			<key>UIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>UIS</string>
+					<string>uis</string>
 				</array>
 			</dict>
 			<key>WIN</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>WIN</string>
+					<string>win</string>
 				</array>
 			</dict>
 			<key>WIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>WIS</string>
+					<string>wis</string>
 				</array>
 			</dict>
 			<key>WSA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>WSA</string>
+					<string>wsa</string>
 				</array>
 			</dict>
 			<key>WSG</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>WSG</string>
+					<string>wsg</string>
 				</array>
 			</dict>
 		</dict>
@@ -718,217 +718,217 @@
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>AAQ</string>
+					<string>aaq</string>
 				</array>
 			</dict>
 			<key>AKN</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>AKN</string>
+					<string>akn</string>
 				</array>
 			</dict>
 			<key>BISM</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>BISM</string>
+					<string>bism</string>
 				</array>
 			</dict>
 			<key>CHS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>CHS</string>
+					<string>chs</string>
 				</array>
 			</dict>
 			<key>DAA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>DAA</string>
+					<string>daa</string>
 				</array>
 			</dict>
 			<key>FPS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>FPS</string>
+					<string>fps</string>
 				</array>
 			</dict>
 			<key>GAA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GAA</string>
+					<string>gaa</string>
 				</array>
 			</dict>
 			<key>GFS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GFS</string>
+					<string>gfs</string>
 				</array>
 			</dict>
 			<key>GIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GIS</string>
+					<string>gis</string>
 				</array>
 			</dict>
 			<key>GMS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GMS</string>
+					<string>gms</string>
 				</array>
 			</dict>
 			<key>GWA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>GWA</string>
+					<string>gwa</string>
 				</array>
 			</dict>
 			<key>JCD</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>JCD</string>
+					<string>jcd</string>
 				</array>
 			</dict>
 			<key>JPS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>JPS</string>
+					<string>jps</string>
 				</array>
 			</dict>
 			<key>KGS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>KGS</string>
+					<string>kgs</string>
 				</array>
 			</dict>
 			<key>MHS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>MHS</string>
+					<string>mhs</string>
 				</array>
 			</dict>
 			<key>MILS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>MILS</string>
+					<string>mils</string>
 				</array>
 			</dict>
 			<key>MLS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>MLS</string>
+					<string>mls</string>
 				</array>
 			</dict>
 			<key>MTS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>MTS</string>
+					<string>mts</string>
 				</array>
 			</dict>
 			<key>NGS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>NGS</string>
+					<string>ngs</string>
 				</array>
 			</dict>
 			<key>NMS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>NMS</string>
+					<string>nms</string>
 				</array>
 			</dict>
 			<key>OIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>OIS</string>
+					<string>ois</string>
 				</array>
 			</dict>
 			<key>OOD</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>OOD</string>
+					<string>ood</string>
 				</array>
 			</dict>
 			<key>OOW</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>OOW</string>
+					<string>oow</string>
 				</array>
 			</dict>
 			<key>RDS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>RDS</string>
+					<string>rds</string>
 				</array>
 			</dict>
 			<key>TBS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>TBS</string>
+					<string>tbs</string>
 				</array>
 			</dict>
 			<key>TWS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>TWS</string>
+					<string>tws</string>
 				</array>
 			</dict>
 			<key>UIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>UIS</string>
+					<string>uis</string>
 				</array>
 			</dict>
 			<key>WIN</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>WIN</string>
+					<string>win</string>
 				</array>
 			</dict>
 			<key>WIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>WIS</string>
+					<string>wis</string>
 				</array>
 			</dict>
 			<key>WSA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>WSA</string>
+					<string>wsa</string>
 				</array>
 			</dict>
 			<key>WSG</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>WSG</string>
+					<string>wsg</string>
 				</array>
 			</dict>
 		</dict>
