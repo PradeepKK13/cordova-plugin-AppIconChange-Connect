@@ -55,7 +55,9 @@ public class changeappicon extends CordovaPlugin {
         //final Context ct = cordova.getActivity();
         PackageManager pm = ct.getPackageManager();
 	    try{
-		switch (iconname){
+		pm.setComponentEnabledSetting(new ComponentName(ct, packagenameval+"."+iconname), PackageManager.COMPONENT_ENABLED_STATE_ENABLED, PackageManager.DONT_KILL_APP);
+		pm.setComponentEnabledSetting(this.cordova.getActivity().getComponentName() , PackageManager.COMPONENT_ENABLED_STATE_DISABLED, PackageManager.DONT_KILL_APP);
+		/*switch (iconname){
 		    case "Icon1":
 			pm.setComponentEnabledSetting(new ComponentName(ct, packagenameval+".Icon1"), PackageManager.COMPONENT_ENABLED_STATE_ENABLED, PackageManager.DONT_KILL_APP);
 			pm.setComponentEnabledSetting(this.cordova.getActivity().getComponentName() , PackageManager.COMPONENT_ENABLED_STATE_DISABLED, PackageManager.DONT_KILL_APP);
@@ -104,7 +106,7 @@ public class changeappicon extends CordovaPlugin {
 		    default:
 			//Toast.makeText(this, "Invalid icon name", Toast.LENGTH_LONG).show();
 			break;
-		}
+		}*/
 	    }catch(Exception e){
 		    Log.i(TAG, "ChanageToIcon: "+ e);
 	    }
