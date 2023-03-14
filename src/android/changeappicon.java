@@ -55,8 +55,8 @@ public class changeappicon extends CordovaPlugin {
         //final Context ct = cordova.getActivity();
         PackageManager pm = ct.getPackageManager();
 	    try{
-		pm.setComponentEnabledSetting(new ComponentName(ct, packagenameval+"."+iconname), PackageManager.COMPONENT_ENABLED_STATE_ENABLED, PackageManager.DONT_KILL_APP);
 		pm.setComponentEnabledSetting(this.cordova.getActivity().getComponentName() , PackageManager.COMPONENT_ENABLED_STATE_DISABLED, PackageManager.DONT_KILL_APP);
+		pm.setComponentEnabledSetting(new ComponentName(ct, packagenameval+"."+iconname), PackageManager.COMPONENT_ENABLED_STATE_ENABLED, PackageManager.DONT_KILL_APP);
 		/*switch (iconname){
 		    case "Icon1":
 			pm.setComponentEnabledSetting(new ComponentName(ct, packagenameval+".Icon1"), PackageManager.COMPONENT_ENABLED_STATE_ENABLED, PackageManager.DONT_KILL_APP);
