@@ -471,7 +471,7 @@
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>Icon1</key>
+			<key>appicon1</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
@@ -480,194 +480,221 @@
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
-			<key>Icon2</key>
+			<key>AAQ</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon2</string>
+					<string>AAQ</string>
 				</array>
 			</dict>
-			<key>Icon3</key>
+			<key>AKN</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon3</string>
+					<string>AKN</string>
 				</array>
 			</dict>
-			<key>Icon4</key>
+			<key>BISM</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon4</string>
+					<string>BISM</string>
 				</array>
 			</dict>
-			<key>Icon5</key>
+			<key>CHS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>CHS</string>
 				</array>
 			</dict>
+			<key>DAA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>DAA</string>
 				</array>
 			</dict>
+			<key>FPS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>FPS</string>
 				</array>
 			</dict>
+			<key>GAA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>GAA</string>
 				</array>
 			</dict>
+			<key>GFS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>GFS</string>
 				</array>
 			</dict>
+			<key>GIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>GIS</string>
 				</array>
 			</dict>
+			<key>GMS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>GMS</string>
 				</array>
 			</dict>
+			<key>GWA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>GWA</string>
 				</array>
 			</dict>
+			<key>JCD</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>JCD</string>
 				</array>
 			</dict>
+			<key>JPS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>JPS</string>
 				</array>
 			</dict>
+			<key>KGS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>KGS</string>
 				</array>
 			</dict>
+			<key>MHS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>MHS</string>
 				</array>
 			</dict>
+			<key>MILS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>MILS</string>
 				</array>
 			</dict>
+			<key>MLS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>MLS</string>
 				</array>
 			</dict>
+			<key>MTS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>MTS</string>
 				</array>
 			</dict>
+			<key>NGS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>NGS</string>
 				</array>
 			</dict>
+			<key>NMS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>NMS</string>
 				</array>
 			</dict>
+			<key>OIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>OIS</string>
 				</array>
 			</dict>
+			<key>OOD</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>OOD</string>
 				</array>
 			</dict>
+			<key>OOW</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>OOW</string>
 				</array>
 			</dict>
+			<key>RDS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>RDS</string>
 				</array>
 			</dict>
+			<key>TBS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>TBS</string>
 				</array>
 			</dict>
+			<key>TWS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>TWS</string>
 				</array>
 			</dict>
+			<key>UIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>UIS</string>
 				</array>
 			</dict>
+			<key>WIN</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>WIN</string>
 				</array>
 			</dict>
+			<key>WIS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>WIS</string>
 				</array>
 			</dict>
+			<key>WSA</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>WSA</string>
 				</array>
 			</dict>
+			<key>WSG</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>WSG</string>
 				</array>
 			</dict>
 		</dict>
@@ -678,7 +705,7 @@
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>Icon1</key>
+			<key>appicon1</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
@@ -687,32 +714,221 @@
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
-			<key>Icon2</key>
+			<key>AAQ</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon2</string>
+					<string>AAQ</string>
 				</array>
 			</dict>
-			<key>Icon3</key>
+			<key>AKN</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon3</string>
+					<string>AKN</string>
 				</array>
 			</dict>
-			<key>Icon4</key>
+			<key>BISM</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon4</string>
+					<string>BISM</string>
 				</array>
 			</dict>
-			<key>Icon5</key>
+			<key>CHS</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>appicon5</string>
+					<string>CHS</string>
+				</array>
+			</dict>
+			<key>DAA</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>DAA</string>
+				</array>
+			</dict>
+			<key>FPS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>FPS</string>
+				</array>
+			</dict>
+			<key>GAA</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>GAA</string>
+				</array>
+			</dict>
+			<key>GFS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>GFS</string>
+				</array>
+			</dict>
+			<key>GIS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>GIS</string>
+				</array>
+			</dict>
+			<key>GMS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>GMS</string>
+				</array>
+			</dict>
+			<key>GWA</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>GWA</string>
+				</array>
+			</dict>
+			<key>JCD</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>JCD</string>
+				</array>
+			</dict>
+			<key>JPS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>JPS</string>
+				</array>
+			</dict>
+			<key>KGS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>KGS</string>
+				</array>
+			</dict>
+			<key>MHS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>MHS</string>
+				</array>
+			</dict>
+			<key>MILS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>MILS</string>
+				</array>
+			</dict>
+			<key>MLS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>MLS</string>
+				</array>
+			</dict>
+			<key>MTS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>MTS</string>
+				</array>
+			</dict>
+			<key>NGS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>NGS</string>
+				</array>
+			</dict>
+			<key>NMS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>NMS</string>
+				</array>
+			</dict>
+			<key>OIS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>OIS</string>
+				</array>
+			</dict>
+			<key>OOD</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>OOD</string>
+				</array>
+			</dict>
+			<key>OOW</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>OOW</string>
+				</array>
+			</dict>
+			<key>RDS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>RDS</string>
+				</array>
+			</dict>
+			<key>TBS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>TBS</string>
+				</array>
+			</dict>
+			<key>TWS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>TWS</string>
+				</array>
+			</dict>
+			<key>UIS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>UIS</string>
+				</array>
+			</dict>
+			<key>WIN</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>WIN</string>
+				</array>
+			</dict>
+			<key>WIS</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>WIS</string>
+				</array>
+			</dict>
+			<key>WSA</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>WSA</string>
+				</array>
+			</dict>
+			<key>WSG</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>WSG</string>
 				</array>
 			</dict>
 		</dict>
