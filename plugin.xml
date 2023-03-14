@@ -53,8 +53,8 @@
 		<activity-alias
 			android:name="AAQ"
 			android:enabled="false"
-			android:icon="@drawable/AAQ"
-			android:roundIcon="@drawable/AAQ"
+			android:icon="@drawable/aaq"
+			android:roundIcon="@drawable/aaq"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -66,8 +66,8 @@
 		<activity-alias
 			android:name="AKN"
 			android:enabled="false"
-			android:icon="@drawable/AKN"
-			android:roundIcon="@drawable/AKN"
+			android:icon="@drawable/akn"
+			android:roundIcon="@drawable/akn"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -79,8 +79,8 @@
 		<activity-alias
 			android:name="BISM"
 			android:enabled="false"
-			android:icon="@drawable/BISM"
-			android:roundIcon="@drawable/BISM"
+			android:icon="@drawable/bism"
+			android:roundIcon="@drawable/bism"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -92,8 +92,8 @@
 		<activity-alias
 			android:name="CHS"
 			android:enabled="false"
-			android:icon="@drawable/CHS"
-			android:roundIcon="@drawable/CHS"
+			android:icon="@drawable/chs"
+			android:roundIcon="@drawable/chs"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -105,8 +105,8 @@
 		<activity-alias
 			android:name="DAA"
 			android:enabled="false"
-			android:icon="@drawable/DAA"
-			android:roundIcon="@drawable/DAA"
+			android:icon="@drawable/daa"
+			android:roundIcon="@drawable/daa"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -118,8 +118,8 @@
 		  <activity-alias
 			android:name="FPS"
 			android:enabled="false"
-			android:icon="@drawable/FPS"
-			android:roundIcon="@drawable/FPS"
+			android:icon="@drawable/fps"
+			android:roundIcon="@drawable/fps"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -131,8 +131,8 @@
 		  <activity-alias
 			android:name="GAA"
 			android:enabled="false"
-			android:icon="@drawable/GAA"
-			android:roundIcon="@drawable/GAA"
+			android:icon="@drawable/gaa"
+			android:roundIcon="@drawable/gaa"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -144,8 +144,8 @@
 		  <activity-alias
 			android:name="GFS"
 			android:enabled="false"
-			android:icon="@drawable/GFS"
-			android:roundIcon="@drawable/GFS"
+			android:icon="@drawable/gfs"
+			android:roundIcon="@drawable/gfs"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -157,8 +157,8 @@
 		  <activity-alias
 			android:name="GIS"
 			android:enabled="false"
-			android:icon="@drawable/GIS"
-			android:roundIcon="@drawable/GIS"
+			android:icon="@drawable/gis"
+			android:roundIcon="@drawable/gis"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -170,8 +170,8 @@
 		  <activity-alias
 			android:name="GMS"
 			android:enabled="false"
-			android:icon="@drawable/GMS"
-			android:roundIcon="@drawable/GMS"
+			android:icon="@drawable/gms"
+			android:roundIcon="@drawable/gms"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -183,8 +183,8 @@
 		  <activity-alias
 			android:name="GWA"
 			android:enabled="false"
-			android:icon="@drawable/GWA"
-			android:roundIcon="@drawable/GWA"
+			android:icon="@drawable/gwa"
+			android:roundIcon="@drawable/gwa"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -196,8 +196,8 @@
 		  <activity-alias
 			android:name="JCD"
 			android:enabled="false"
-			android:icon="@drawable/JCD"
-			android:roundIcon="@drawable/JCD"
+			android:icon="@drawable/jcd"
+			android:roundIcon="@drawable/jcd"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -209,8 +209,8 @@
 		  <activity-alias
 			android:name="JPS"
 			android:enabled="false"
-			android:icon="@drawable/JPS"
-			android:roundIcon="@drawable/JPS"
+			android:icon="@drawable/jps"
+			android:roundIcon="@drawable/jps"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -222,8 +222,8 @@
 		  <activity-alias
 			android:name="KGS"
 			android:enabled="false"
-			android:icon="@drawable/KGS"
-			android:roundIcon="@drawable/KGS"
+			android:icon="@drawable/kgs"
+			android:roundIcon="@drawable/kgs"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -235,8 +235,8 @@
 		  <activity-alias
 			android:name="MHS"
 			android:enabled="false"
-			android:icon="@drawable/MHS"
-			android:roundIcon="@drawable/MHS"
+			android:icon="@drawable/mhs"
+			android:roundIcon="@drawable/mhs"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -248,8 +248,8 @@
 		  <activity-alias
 			android:name="MILS"
 			android:enabled="false"
-			android:icon="@drawable/MILS"
-			android:roundIcon="@drawable/MILS"
+			android:icon="@drawable/mils"
+			android:roundIcon="@drawable/mils"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -261,8 +261,8 @@
 		  <activity-alias
 			android:name="MLS"
 			android:enabled="false"
-			android:icon="@drawable/MLS"
-			android:roundIcon="@drawable/MLS"
+			android:icon="@drawable/mls"
+			android:roundIcon="@drawable/mls"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -274,8 +274,8 @@
 		  <activity-alias
 			android:name="MTS"
 			android:enabled="false"
-			android:icon="@drawable/MTS"
-			android:roundIcon="@drawable/MTS"
+			android:icon="@drawable/mts"
+			android:roundIcon="@drawable/mts"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -287,8 +287,8 @@
 		  <activity-alias
 			android:name="NGS"
 			android:enabled="false"
-			android:icon="@drawable/NGS"
-			android:roundIcon="@drawable/NGS"
+			android:icon="@drawable/ngs"
+			android:roundIcon="@drawable/ngs"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -300,8 +300,8 @@
 		  <activity-alias
 			android:name="NMS"
 			android:enabled="false"
-			android:icon="@drawable/NMS"
-			android:roundIcon="@drawable/NMS"
+			android:icon="@drawable/nms"
+			android:roundIcon="@drawable/nms"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -313,8 +313,8 @@
 		  <activity-alias
 			android:name="OIS"
 			android:enabled="false"
-			android:icon="@drawable/OIS"
-			android:roundIcon="@drawable/OIS"
+			android:icon="@drawable/ois"
+			android:roundIcon="@drawable/ois"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -326,8 +326,8 @@
 		  <activity-alias
 			android:name="OOD"
 			android:enabled="false"
-			android:icon="@drawable/OOD"
-			android:roundIcon="@drawable/OOD"
+			android:icon="@drawable/ood"
+			android:roundIcon="@drawable/ood"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -339,8 +339,8 @@
 		  <activity-alias
 			android:name="OOW"
 			android:enabled="false"
-			android:icon="@drawable/OOW"
-			android:roundIcon="@drawable/OOW"
+			android:icon="@drawable/oow"
+			android:roundIcon="@drawable/oow"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -352,8 +352,8 @@
 		  <activity-alias
 			android:name="RDS"
 			android:enabled="false"
-			android:icon="@drawable/RDS"
-			android:roundIcon="@drawable/RDS"
+			android:icon="@drawable/rds"
+			android:roundIcon="@drawable/rds"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -365,8 +365,8 @@
 		  <activity-alias
 			android:name="TBS"
 			android:enabled="false"
-			android:icon="@drawable/TBS"
-			android:roundIcon="@drawable/TBS"
+			android:icon="@drawable/tbs"
+			android:roundIcon="@drawable/tbs"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -378,8 +378,8 @@
 		  <activity-alias
 			android:name="TWS"
 			android:enabled="false"
-			android:icon="@drawable/TWS"
-			android:roundIcon="@drawable/TWS"
+			android:icon="@drawable/tws"
+			android:roundIcon="@drawable/tws"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -391,8 +391,8 @@
 		  <activity-alias
 			android:name="UIS"
 			android:enabled="false"
-			android:icon="@drawable/UIS"
-			android:roundIcon="@drawable/UIS"
+			android:icon="@drawable/uis"
+			android:roundIcon="@drawable/uis"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -404,8 +404,8 @@
 		  <activity-alias
 			android:name="WIN"
 			android:enabled="false"
-			android:icon="@drawable/WIN"
-			android:roundIcon="@drawable/WIN"
+			android:icon="@drawable/win"
+			android:roundIcon="@drawable/win"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -417,8 +417,8 @@
 		  <activity-alias
 			android:name="WIS"
 			android:enabled="false"
-			android:icon="@drawable/WIS"
-			android:roundIcon="@drawable/WIS"
+			android:icon="@drawable/wis"
+			android:roundIcon="@drawable/wis"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -430,8 +430,8 @@
 		  <activity-alias
 			android:name="WSA"
 			android:enabled="false"
-			android:icon="@drawable/WSA"
-			android:roundIcon="@drawable/WSA"
+			android:icon="@drawable/wsa"
+			android:roundIcon="@drawable/wsa"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
@@ -443,8 +443,8 @@
 		  <activity-alias
 			android:name="WSG"
 			android:enabled="false"
-			android:icon="@drawable/WSG"
-			android:roundIcon="@drawable/WSG"
+			android:icon="@drawable/wsg"
+			android:roundIcon="@drawable/wsg"
 			android:label="@string/app_name"
 			android:targetActivity=".MainActivity">
 			<intent-filter>
